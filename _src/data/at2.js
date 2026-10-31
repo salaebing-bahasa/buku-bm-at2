@@ -244,4 +244,13 @@ module.exports = {
       nilai_ms: "Rasulullah SAW melarang kita membazir air walaupun semasa mengambil wuduk di tepi sungai. Oleh itu, kita hendaklah menggunakan air dengan berjimat.",
     },
   ],
+  // รายการอ้างอิง (Rujukan · บรรณานุกรม) แสดงในหน้า rujukan.html — เขียนแบบ APA ฉบับที่ 7, *ข้อความ* = ตัวเอียง
+  rujukan: [
+    { lang: "ms", text: "Dewan Bahasa dan Pustaka. (t.t.). *Pusat Rujukan Persuratan Melayu*. Diakses pada 31 Oktober 2026, daripada https://prpm.dbp.gov.my/" },
+    { lang: "ms", text: "Dewan Bahasa dan Pustaka. (1992). *Pedoman umum ejaan bahasa Melayu*." },
+    { lang: "ms", text: "Dewan Bahasa dan Pustaka. (2005). *Kamus Dewan* (Ed. ke-4)." },
+    { lang: "ms", text: "Dewan Bahasa dan Pustaka. (2008). *Daftar kata bahasa Melayu: Rumi–sebutan–Jawi* (Ed. ke-2)." },
+    { lang: "ms", text: "Nik Safiah Karim, Farid M. Onn, Hashim Haji Musa, & Abdul Hamid Mahmood. (2008). *Tatabahasa Dewan* (Ed. ke-3). Dewan Bahasa dan Pustaka." },
+    { lang: "th", text: "สำนักงานคณะกรรมการส่งเสริมการศึกษาเอกชน. (2569). *หลักสูตรอิสลามศึกษาสำหรับโรงเรียนเอกชนในระบบ พ.ศ. 2569* [Kurikulum Pendidikan Islam untuk Sekolah Swasta dalam Sistem 2026]. https://opec.go.th/service/detail/55" },
+  ],
 };
